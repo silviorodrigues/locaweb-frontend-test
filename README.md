@@ -1,8 +1,10 @@
 # Teste front-end Locaweb
 O teste consiste em avaliar as habilidades com algumas tecnologias básicas no desenvolvimento front-end, tais como HTML, CSS e Javascript. Foque em propor uma solução com um design de código bem elaborado e preparado para o crescimento da aplicação.
 
+Sinta-se livre para usar os frameworks, libs ou ferramentas que mais se sentir confortável, o que importa é a linha de raciocínio seguida ;)
+
 ## Problema a ser resolvido:
-Para acessar os produtos da Locaweb o usuário precisa primeiramente realizar o login com seu email e senha cadastrados na hora da contratação do produto. Esse formulário ira enviar um POST para uma API.
+Para acessar os produtos da Locaweb o usuário precisa primeiramente realizar o login com seu email e senha cadastrados na hora da contratação dos mesmos. Esse formulário irá enviar um POST para uma API.
 
 O endpoint usado para essa requisição é o `https://reqres.in/api/login` que deverá receber o seguinte payload por POST:
 
